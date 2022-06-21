@@ -1,6 +1,1 @@
-companyName:Image Engine
-companyContractTelephone:+6666666666
-companyContractEmail:xxx@google.com
-companyContractWebpage:imgen.co
-productName:Campfire
-productDetail:Make america great again
+link:imgen.co
