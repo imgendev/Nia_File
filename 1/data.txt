@@ -1,0 +1,6 @@
+companyName:Google
+companyContractTelephone:+1-650-206-5555
+companyContractEmail:google@google.com
+companyContractWebpage:www.google.com
+productName:Search Engine
+productDetail:Google LLC is an American multinational technology company that focuses on artificial intelligence,[10] search engine technology, online advertising, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics. It has been referred to as the "most powerful company in the world" and one of the world's most valuable brands due to its market dominance, data collection, and technological advantages in the area of artificial intelligence.[11][12][13][14] It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft.
