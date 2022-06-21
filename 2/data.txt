@@ -1,6 +1,0 @@
-companyName:Pico
-companyContractTelephone:066666666
-companyContractEmail:Picopico@gmail.com
-companyContractWebpage:PICOPICO
-productName:3D
-productDetail:Crappy Models
